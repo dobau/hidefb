@@ -22,7 +22,17 @@
 			}
 		}
 	}
-
-	remove(["fb-recom", "fb-share-button"]);
+	
+	remove(["fb-like",
+			"fb-share-button",
+			"fb-send",
+			"fb-post",
+			"fb-follow",
+			"fb-comments",
+			"fb-activity",
+			"fb-recomendations",
+			"fb-recomendations-bar",
+			"fb-like-box",
+			"fb-facepile"]);
 
 })(window);
